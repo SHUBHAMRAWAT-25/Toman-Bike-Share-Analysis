@@ -1,10 +1,10 @@
-# Toman Bike Share Analysis
+# Toman Bike Shares Analysis
 
 This project showcases an analysis of Toman Bike sales data using SQL and Power BI. By combining and conditioning data from multiple datasets, we generated actionable insights and recommendations to optimize pricing strategies and market positioning.
 
 ## Problem Statement
 
-The Toman Bike Share program seeks the development of a comprehensive dashboard to enhance decision-making by visualizing key performance metrics. The dashboard must include:
+The Toman Bike Shares program seeks the development of a comprehensive dashboard to enhance decision-making by visualizing key performance metrics. The dashboard must include:
 - Hourly revenue analysis
 - Profit and revenue trends
 - Seasonal revenue insights
